@@ -1,1 +1,1 @@
-# prakmetkom
+# prakmetodekomputasi
