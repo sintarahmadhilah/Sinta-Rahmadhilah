@@ -8,5 +8,6 @@ Hi My name is Sinta Rahmadhilah ![](https://user-images.githubusercontent.com/18
 
 
 ### Socials
+[![Instagram Badge](https://img.shields.io/badge/-@sintarhmma-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sintarahmma/)](https://instagram.com/sintarahmma)
+[![Linkedin Badge](https://img.shields.io/badge/-SintaRahmadhilah-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SintaRahmadhilah/)](https://www.linkedin.com/in/SintaRahmadhilah/)
 
-<a href="http://www.instagram.com/sintarhmma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Sinta Rahmadhilah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
