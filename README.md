@@ -1,6 +1,6 @@
   Hi My name is Sinta Rahmadhilah <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Flamingo.png" alt="Flamingo" width="50" height="50" />
 =========================================================================================================================================
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" >
 
 * 🌍  I'm based in Yogyakarta, Indonesia
 * ✉️  You can contact me at [sintarahmadhilah@mail.ugm.ac.id](mailto:sintarahmadhilah@mail.ugm.ac.id)
