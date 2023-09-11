@@ -1,4 +1,4 @@
-Hi My name is Sinta Rahmadhilah ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+  Hi My name is Sinta Rahmadhilah <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Flamingo.png" alt="Flamingo" width="50" height="50" />
 =========================================================================================================================================
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
