@@ -6,6 +6,7 @@
 * 🌍  I'm based in Yogyakarta, Indonesia
 * ✉️  You can contact me at [sintarahmadhilah@mail.ugm.ac.id](mailto:sintarahmadhilah@mail.ugm.ac.id)
 * 🧠  I'm learning Python
+* 📖  I have a hobby of reading
 
 
 ### Socials
